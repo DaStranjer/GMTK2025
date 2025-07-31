@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\u0027s PC\\Desktop\\desktop\\Game dev Portfolio\\3D First-Person shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A99AE4B-C481-6C49-6E44-668A4C2AE28F}|Assembly-CSharp.csproj|c:\\users\\hamza\u0027s pc\\desktop\\desktop\\game dev portfolio\\3d first-person shooter\\assets\\script\\player\\bean\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A99AE4B-C481-6C49-6E44-668A4C2AE28F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\bean\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A99AE4B-C481-6C49-6E44-668A4C2AE28F}|Assembly-CSharp.csproj|c:\\users\\hamza\u0027s pc\\desktop\\desktop\\game dev portfolio\\3d first-person shooter\\assets\\script\\player\\bean\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A99AE4B-C481-6C49-6E44-668A4C2AE28F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\bean\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A99AE4B-C481-6C49-6E44-668A4C2AE28F}|Assembly-CSharp.csproj|c:\\users\\hamza\u0027s pc\\desktop\\desktop\\game dev portfolio\\3d first-person shooter\\assets\\script\\player\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A99AE4B-C481-6C49-6E44-668A4C2AE28F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\u0027s PC\\Desktop\\desktop\\Game dev Portfolio\\3D First-Person shooter\\Assets\\Script\\Player\\Bean\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Bean\\CameraController.cs",
+              "ToolTip": "C:\\Users\\Hamza\u0027s PC\\Desktop\\desktop\\Game dev Portfolio\\3D First-Person shooter\\Assets\\Script\\Player\\Bean\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Bean\\CameraController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:27:19.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\u0027s PC\\Desktop\\desktop\\Game dev Portfolio\\3D First-Person shooter\\Assets\\Script\\Player\\Bean\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Bean\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Hamza\u0027s PC\\Desktop\\desktop\\Game dev Portfolio\\3D First-Person shooter\\Assets\\Script\\Player\\Bean\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Bean\\PlayerController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:27:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\u0027s PC\\Desktop\\desktop\\Game dev Portfolio\\3D First-Person shooter\\Assets\\Script\\Player\\Knife.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Knife.cs",
+              "ToolTip": "C:\\Users\\Hamza\u0027s PC\\Desktop\\desktop\\Game dev Portfolio\\3D First-Person shooter\\Assets\\Script\\Player\\Knife.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Knife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:27:02.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
